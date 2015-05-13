@@ -12,6 +12,21 @@ color:
 # Footer settings
 footer: Margaret Gilboa
 
+#Properties
+property1:
+  address: 6727 Lucy Lane
+  image1:
+    title: Front
+    location: ../img/properties/lucy/front.JPG
+  image2:
+    title:
+    location:
+  image3:
+    title:
+    location:
+
+
+
 
 
 
