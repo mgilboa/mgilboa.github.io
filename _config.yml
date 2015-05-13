@@ -1,0 +1,20 @@
+# Site settings
+title: Margaret Gilboa
+email: mgilboa@mris.com
+url: https://mgilboa.github.io
+description: "Real Estate Agent based in Langley Forest selling Luxary Properties and Land"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#8A2BE2'
+
+# Footer settings
+footer: Margaret Gilboa
+
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
